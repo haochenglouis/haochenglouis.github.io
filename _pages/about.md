@@ -23,13 +23,22 @@ One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_G
 
 Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (ICLR 2021)  
 **Hao cheng\*** , Zhaowei Zhu\* , Xingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
-[paper](www) [code](www)
-
+[paper](https://arxiv.org/pdf/2010.02347.pdf) [code](https://github.com/haochenglouis/cores)
 
 
 Pruning Filter in Filter (NeurlPS2020)  
 Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Huixiang Luo, Xiaowei Guo, Guangming Lu, Xing Sun.  
-[paper](www) [code](www)
+[paper](https://arxiv.org/pdf/2009.14410.pdf) [code](https://github.com/fxmeng/Pruning-Filter-in-Filter)
+
+
+Filter Grafting for Deep Neural Networks (CVPR 2020)  
+Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Zhixin Xu, Rongrong Ji, Xing Sun, Guangming Lu.  
+[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) [code](https://github.com/fxmeng/filter-grafting)
+
+
+Evaluating Capability of Neural Networks for Image Classification via Information Plane (ECCV 2018)  
+**Hao Cheng**, Dongze Lian, Shenghua Gao, Yanlin Geng.  
+[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hao_Cheng_Evaluating_Capability_of_ECCV_2018_paper.pdf) [code](https://github.com/haochenglouis/ib_cnn)
 
 
 
