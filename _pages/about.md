@@ -19,10 +19,22 @@ One [paper](https://arxiv.org/pdf/2010.02347.pdf) accepted by ICLR2021.
 One [paper](https://arxiv.org/pdf/2009.14410.pdf) accepted by NeurlPS2020.  
 One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) accepted by CVPR2020.
 
-## Publication (* :equal contribution)
+## Selected Publication (* :equal contribution)
 
-Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (ICLR2021)  
-<font size=2.5> **Hao cheng\* ** , Zhaowei Zhu\* , Xingyu Li, Yifei Gong, Xing Sun, Yang Liu. </font>  
-[paper](www) [code](www)  
+Learning with Instance-Dependent Label Noise: A Sample Sieve Approach
+
+<font size=2.5> **Hao cheng\* ** , Zhaowei Zhu\* , Xingyu Li, Yifei Gong, Xing Sun, Yang Liu. </font>
+
+[paper](www) [code](www)
+
+
+
+Pruning Filter in Filter (NeurlPS2020)
+
+<font size=2.5> Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Huixiang Luo, Xiaowei Guo, Guangming Lu, Xing Sun. </font>
+
+[paper](www) [code](www)
+
+
 
 
