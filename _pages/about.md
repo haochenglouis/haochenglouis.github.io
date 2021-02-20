@@ -41,5 +41,20 @@ Evaluating Capability of Neural Networks for Image Classification via Informatio
 [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hao_Cheng_Evaluating_Capability_of_ECCV_2018_paper.pdf) [code](https://github.com/haochenglouis/ib_cnn)
 
 
+## Invited Talks 
+
+Invited talk by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) on **Mutual Information in Deep Learning**.  
+[slides](https://piratehao.github.io/mi_dl/mi_dl.pdf) [video](https://www.bilibili.com/video/BV16Z4y1V7uE/)
+
+
+Invited talk by [机器之心](https://www.jiqizhixin.com) on **learning with noisy labels and collaborative learning**.  
+[slides](https://share.weiyun.com/rgKWV4qb) [video](https://www.bilibili.com/video/BV16a4y1i7VR)
+
+
+
+
+
+
+
 
 
