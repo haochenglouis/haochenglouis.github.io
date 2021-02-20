@@ -36,7 +36,7 @@ Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Zhixin Xu, Rongrong Ji, Xing Sun, Guang
 [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) [code](https://github.com/fxmeng/filter-grafting)
 
 
-Evaluating Capability of Neural Networks for Image Classification via Information Plane (**ECCV 2018**)  
+Evaluating Capability of Deep Neural Networks for Image Classification via Information Plane (**ECCV 2018**)  
 **Hao Cheng**, Dongze Lian, Shenghua Gao, Yanlin Geng.  
 [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hao_Cheng_Evaluating_Capability_of_ECCV_2018_paper.pdf) [code](https://github.com/haochenglouis/ib_cnn)
 
