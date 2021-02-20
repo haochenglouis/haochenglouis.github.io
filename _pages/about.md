@@ -26,7 +26,7 @@ Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (**ICLR 20
 [paper](https://arxiv.org/pdf/2010.02347.pdf) [code](https://github.com/haochenglouis/cores)
 
 
-Pruning Filter in Filter (**NeurlPS2020**)  
+Pruning Filter in Filter (**NeurlPS 2020**)  
 Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Huixiang Luo, Xiaowei Guo, Guangming Lu, Xing Sun.  
 [paper](https://arxiv.org/pdf/2009.14410.pdf) [code](https://github.com/fxmeng/Pruning-Filter-in-Filter)
 
