@@ -21,8 +21,7 @@ One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_G
 
 ## Publication (* :equal contribution)
 
-Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (ICLR2021)  
-**Hao cheng*** , Zhaowei Zhu* , Xingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
-[paper](www), [code](www)
+Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (ICLR2021) [paper](www) [code](www)  
+<font color=gray size=2> **Hao cheng*** , Zhaowei Zhu* , Xingyu Li, Yifei Gong, Xing Sun, Yang Liu. </font>
 
 
