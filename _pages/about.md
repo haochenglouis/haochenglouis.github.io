@@ -21,22 +21,22 @@ One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_G
 
 ## Selected Publication (* :equal contribution)
 
-Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (ICLR 2021)  
+Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (**ICLR 2021**)  
 **Hao cheng\*** , Zhaowei Zhu\* , Xingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
 [paper](https://arxiv.org/pdf/2010.02347.pdf) [code](https://github.com/haochenglouis/cores)
 
 
-Pruning Filter in Filter (NeurlPS2020)  
+Pruning Filter in Filter (**NeurlPS2020**)  
 Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Huixiang Luo, Xiaowei Guo, Guangming Lu, Xing Sun.  
 [paper](https://arxiv.org/pdf/2009.14410.pdf) [code](https://github.com/fxmeng/Pruning-Filter-in-Filter)
 
 
-Filter Grafting for Deep Neural Networks (CVPR 2020)  
+Filter Grafting for Deep Neural Networks (**CVPR 2020**)  
 Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Zhixin Xu, Rongrong Ji, Xing Sun, Guangming Lu.  
 [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) [code](https://github.com/fxmeng/filter-grafting)
 
 
-Evaluating Capability of Neural Networks for Image Classification via Information Plane (ECCV 2018)  
+Evaluating Capability of Neural Networks for Image Classification via Information Plane (**ECCV 2018**)  
 **Hao Cheng**, Dongze Lian, Shenghua Gao, Yanlin Geng.  
 [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hao_Cheng_Evaluating_Capability_of_ECCV_2018_paper.pdf) [code](https://github.com/haochenglouis/ib_cnn)
 
@@ -47,10 +47,18 @@ Invited talk by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAA
 [slides](https://piratehao.github.io/mi_dl/mi_dl.pdf) [video](https://www.bilibili.com/video/BV16Z4y1V7uE/)
 
 
-Invited talk by [机器之心](https://www.jiqizhixin.com) on **learning with noisy labels and collaborative learning**.  
+Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with Noisy Labels and Collaborative Learning**.  
 [slides](https://share.weiyun.com/rgKWV4qb) [video](https://www.bilibili.com/video/BV16a4y1i7VR)
 
 
+## Coloful Life 
+
+
+- I have a beautiful girlfriend and I am grateful for her appearing in my life.
+- I am a big fun of Michael Jackson and have some limited autograph books of him. 
+- Affected by Michael, I used to dance in the college as a leader (Just for fun).
+- I like to watch Japanese animes. Some of them, I think, reshaped my values.
+- I really really really want to have a dog.  
 
 
 
