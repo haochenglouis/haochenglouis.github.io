@@ -57,7 +57,8 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 - I have a beautiful girlfriend and I am grateful for her appearing in my life.
 - I am a big fun of Michael Jackson and have some limited autograph books of him. 
 - Affected by Michael, I used to dance in the college as a leader (Just for fun).
-- I like to watch Japanese animes. Some of them, I think, reshaped my values.
+- I like to play basketball and billiards with my friends.
+- I have watched many Japanese animes. Some of them, I think, reshaped my values.
 - My favorite mobile game is Identity 5 (第五人格).
 - I really really really want to raise a dog.  
 
