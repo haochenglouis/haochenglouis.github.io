@@ -51,7 +51,7 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 [slides](https://share.weiyun.com/rgKWV4qb) [video](https://www.bilibili.com/video/BV16a4y1i7VR)
 
 
-## Coloful Life 
+## My Life 
 
 
 - I have a beautiful girlfriend and I am grateful for her appearing in my life.
