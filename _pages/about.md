@@ -44,7 +44,7 @@ Evaluating Capability of Deep Neural Networks for Image Classification via Infor
 ## Invited Talks 
 
 Invited talk by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) on **Mutual Information in Deep Learning**.  
-[slides](https://piratehao.github.io/mi_dl/mi_dl.pdf) [video](https://www.bilibili.com/video/BV16Z4y1V7uE/)
+[slides](https://haochenglouis.github.io/files/mi_dl.pdf) [video](https://www.bilibili.com/video/BV16Z4y1V7uE/)
 
 
 Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with Noisy Labels and Collaborative Learning**.  
