@@ -56,6 +56,16 @@ Invited talk by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAA
 Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with Noisy Labels and Collaborative Learning**.  
 [slides](https://share.weiyun.com/rgKWV4qb) [video](https://www.bilibili.com/video/BV16a4y1i7VR)
 
+## Recent Awards
+
+| Awards and Honors                           | Organization       | Year               |
+| ------------------------------------------- | ------------------ | ------------------ |
+| Chancellor Fellowship                       | UC, Santa Cluz     | 2021               |
+| Four-Star Distinguished Staff               | Youtu Lab, Tencent | 2020 (first half)  |
+| Four-Star Distinguished Staff               | Youtu Lab, Tencent | 2020 (second half) |
+| Company-level Technology Breakthrough Award | Youtu Lab, Tencent | 2020               |
+| Top-1 lecturer of the year                  | Youtu Lab, Tencent | 2020               |
+
 
 ## My Life 
 
