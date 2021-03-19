@@ -64,9 +64,9 @@ Four-Star Distinguished Staff                                                You
 
 Four-Star Distinguished Staff                                                Youtu Lab, Tencent               2020 (second half)
 
-Company-level Technology Breakthrough Award             Youtu Lab, Tencent               2020
+Company-level Technology Breakthrough Award　　　Youtu Lab, Tencent　　2020
 
-Top-1 Lecturer of the Year　　　　　　　　　　　　　　　　　　Youtu Lab, Tencent　　　　2020
+Top-1 Lecturer of the Year　　　　　　Youtu Lab, Tencent　　　　　　　　　2020
 
 ## My Life 
 
