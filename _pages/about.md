@@ -58,13 +58,11 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 
 ## Recent Awards
 
-| Awards and Honors                           | Organization       | Year               |
-| ------------------------------------------- | ------------------ | ------------------ |
-| Chancellor Fellowship                       | UC, Santa Cluz     | 2021               |
-| Four-Star Distinguished Staff               | Youtu Lab, Tencent | 2020 (first half)  |
-| Four-Star Distinguished Staff               | Youtu Lab, Tencent | 2020 (second half) |
-| Company-level Technology Breakthrough Award | Youtu Lab, Tencent | 2020               |
-| Top-1 Lecturer of the Year                  | Youtu Lab, Tencent | 2020               |
+Chancellor Fellowship                                UC, Santa Cluz        2021
+Four-Star Distinguished Staff                        Youtu Lab, Tencent    2020 (first half)
+Four-Star Distinguished Staff                        Youtu Lab, Tencent    2020 (second half)
+Company-level Technology Breakthrough Award          Youtu Lab, Tencent    2020
+Top-1 Lecturer of the Year                           Youtu Lab, Tencent    2020
 
 
 ## My Life 
