@@ -36,6 +36,12 @@ Fanxu Meng\*  , **Hao Cheng\*** , Ke Li, Zhixin Xu, Rongrong Ji, Xing Sun, Guang
 [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) [code](https://github.com/fxmeng/filter-grafting)
 
 
+Local to Global Learning: Gradually Adding Classes for Training Deep Neural Networks (**CVPR 2019**)  
+**Hao Cheng\***  , Dongze Lian\* , Bowen Deng, Shenghua Gao, Tao Tan, Yanlin Geng.  
+[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Local_to_Global_Learning_Gradually_Adding_Classes_for_Training_Deep_CVPR_2019_paper.pdf) [code](https://github.com/piratehao/Local-to-Global-Learning-for-DNNs)
+
+
+
 Evaluating Capability of Deep Neural Networks for Image Classification via Information Plane (**ECCV 2018**)  
 **Hao Cheng**, Dongze Lian, Shenghua Gao, Yanlin Geng.  
 [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hao_Cheng_Evaluating_Capability_of_ECCV_2018_paper.pdf) [code](https://github.com/haochenglouis/ib_cnn)
