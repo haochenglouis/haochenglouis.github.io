@@ -75,7 +75,7 @@ Top-1 Lecturer of the Year　　　　　　　　　　　　　Youtu Lab, Tenc
 - I like to play basketball and billiards with my friends.
 - I have watched many Japanese animes. Some of them, I think, reconstructed my values.
 - My favorite mobile game is Identity 5 (第五人格).
-- I really really really want to raise a dog.  
+- I love dogs very much and want to raise one recently.  
 
 
 
