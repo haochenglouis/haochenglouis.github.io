@@ -70,7 +70,7 @@ Top-1 Lecturer of the Year　　　　　　　　　　　　　Youtu Lab, Tenc
 
 
 - I have a beautiful girlfriend and I am grateful for her appearing in my life.
-- I am a big fun of Michael Jackson and have some limited autograph books of him. 
+- I am a big fan of Michael Jackson and have some limited autograph books of him. 
 - Affected by Michael, I used to dance in the college as a leader (Just for fun).
 - I like to play basketball and billiards with my friends.
 - I have watched many Japanese animes. Some of them, I think, reconstructed my values.
