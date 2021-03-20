@@ -60,7 +60,7 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 
 Chancellor Fellowship　　　　　　　　　　　　　　UC, Santa Cluz　　　　　　2021
 
-Four-Star (Good+) Distinguished Staff　　　　　　　　　Youtu Lab, Tencent　　　　2020 
+Four-Star (Good+) Distinguished Staff　　　　　　　Youtu Lab, Tencent　　　　2020 
 
 Company-level Technology Breakthrough Award　　　Youtu Lab, Tencent　　　　2020
 
