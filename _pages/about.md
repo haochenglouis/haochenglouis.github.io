@@ -14,7 +14,7 @@ Professor [Yang Liu](http://www.yliuu.com). I am currently interested in weakly 
 
 News
 ======
-Two papers are available on arxiv: [RMNet](https://arxiv.org/abs/2111.00687) and [SSL for Noisy Label](https://arxiv.org/abs/2110.09022).
+Two papers are available on arxiv: [RMNet](https://arxiv.org/abs/2111.00687) and [SSL for Noisy Label](https://arxiv.org/abs/2110.09022).  
 One [paper](https://arxiv.org/pdf/2010.02347.pdf) accepted to ICLR 2021.  
 One [paper](https://arxiv.org/pdf/2009.14410.pdf) accepted to NeurlPS 2020.  
 One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) accepted to CVPR 2020.
