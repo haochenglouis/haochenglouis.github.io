@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a researcher at Youtu Lab, Tencent. My job is to explore efficient learning algorithms and apply them on various applications. I am
-interested in weakly supervised learning (learning with imperfect information) and explainable neural networks (network understanding). I received master degree from the University of Chinese Academy of Sciences, supervised by [Yanlin Geng](https://scholar.google.com/citations?user=bTVgLkQAAAAJ&hl=en). 
+I am a Ph.D. student at University of California, Santa Cruz. I work with
+Professor [Yang Liu](http://www.yliuu.com). I am currently interested in weakly supervised learning (learning with imperfect information) and explainable neural networks (network understanding). Previously, I spent two years at YouTu Lab, Tencent, working with [Ke Li](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en) and [Xing Sun](https://www.sunxing.org).
 
 
 News
 ======
+Two papers are available on arxiv: [RMNet](https://arxiv.org/abs/2111.00687) and [SSL for Noisy Label](https://arxiv.org/abs/2110.09022).
 One [paper](https://arxiv.org/pdf/2010.02347.pdf) accepted to ICLR 2021.  
 One [paper](https://arxiv.org/pdf/2009.14410.pdf) accepted to NeurlPS 2020.  
 One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) accepted to CVPR 2020.
