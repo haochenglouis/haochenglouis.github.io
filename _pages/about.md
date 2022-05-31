@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at University of California, Santa Cruz, working with
+I am a Ph.D. student at University of California, Santa Cruz (UCSC), working with
 Professor [Yang Liu](http://www.yliuu.com). I am currently interested in weakly supervised learning (learning with imperfect information) and explainable neural networks (network understanding). Previously, I spent two years at YouTu Lab, Tencent, working with [Ke Li](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en) and [Xing Sun](https://www.sunxing.org).
 
 
