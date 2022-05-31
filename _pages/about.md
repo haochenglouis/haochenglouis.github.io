@@ -58,7 +58,7 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 
 ## Recent Awards
 
-Chancellor Fellowship　　　　　　　　UCSC　　　　　　　2020
+Chancellor Fellowship　　　　　　　　UCSC　　　　　　　2021
 
 Four-Star Distinguished Staff　　Youtu Lab, Tencent　　　　2020 
 
