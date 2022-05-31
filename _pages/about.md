@@ -58,22 +58,12 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 
 ## Recent Awards
 
+Chancellor Fellowship            UCSC                    2020
 Four-Star Distinguished Staff　　Youtu Lab, Tencent　　　　2020 
 
 Technology Breakthrough Award　  Youtu Lab, Tencent　　　2020
 
 Top-1 Lecturer of the Year　　　　Youtu Lab, Tencent　　　2020
-
-## My Life 
-
-
-- I have a beautiful girlfriend and I am grateful for her appearing in my life.
-- I am a big fan of Michael Jackson and have some limited books of him. 
-- Affected by Michael, I used to dance in the college as a leader (Just for fun).
-- I like to play basketball and billiards with my friends.
-- I have watched many Japanese animes. Some of them, I think, reconstructed my values.
-- My favorite mobile game is Identity 5 (第五人格).
-- I love dogs very much and want to raise one recently.  
 
 
 
