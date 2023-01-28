@@ -14,12 +14,17 @@ Professor [Yang Liu](http://www.yliuu.com). I am currently interested in weakly 
 
 News
 ======
-Two papers are available on arxiv: [RMNet](https://arxiv.org/abs/2111.00687) and [SSL for Noisy Label](https://arxiv.org/abs/2110.09022).  
-One [paper](https://arxiv.org/pdf/2010.02347.pdf) accepted to ICLR 2021.  
-One [paper](https://arxiv.org/pdf/2009.14410.pdf) accepted to NeurlPS 2020.  
-One [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Filter_Grafting_for_Deep_Neural_Networks_CVPR_2020_paper.pdf) accepted to CVPR 2020.
+Two arxiv papers are available: [RMNet](https://arxiv.org/abs/2111.00687) and [Identifiability of Noise Transition Matrix](https://arxiv.org/abs/2202.02016).  
 
 ## Selected Publication (* denotes equal contribution)
+
+Mitigating Memorization of Noisy Labels via Regularization between Representations (**ICLR 2023**)  
+**Hao cheng\***, Zhaowei Zhu\*, Xing Sun, Yang Liu. 
+[paper](https://arxiv.org/pdf/2110.09022.pdf) [code](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
+
+Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations (**ICLR 2022**)  
+Jiaheng Wei, Zhaowei Zhu, **Hao Cheng**, Tongliang Liu, Gang Niu, Yang LiuXingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
+[paper](https://arxiv.org/pdf/2110.12088.pdf) [code](http://noisylabels.com)
 
 Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (**ICLR 2021**)  
 **Hao cheng\***, Zhaowei Zhu\*, Xingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
