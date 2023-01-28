@@ -19,7 +19,7 @@ Two arxiv papers are available: [RMNet](https://arxiv.org/abs/2111.00687) and [I
 ## Selected Publication (* denotes equal contribution)
 
 Mitigating Memorization of Noisy Labels via Regularization between Representations (**ICLR 2023**)  
-**Hao cheng\***, Zhaowei Zhu\*, Xing Sun, Yang Liu. 
+**Hao cheng\***, Zhaowei Zhu\*, Xing Sun, Yang Liu.   
 [paper](https://arxiv.org/pdf/2110.09022.pdf) [code](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
 
 Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations (**ICLR 2022**)  
