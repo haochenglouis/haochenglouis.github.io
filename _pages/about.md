@@ -44,7 +44,7 @@ Fanxu Meng\*, **Hao Cheng\***, Ke Li, Zhixin Xu, Rongrong Ji, Xing Sun, Guangmin
 
 
 Local to Global Learning: Gradually Adding Classes for Training Deep Neural Networks (**CVPR 2019**)  
-**Hao Cheng\***, Dongze Lian\*, Bowen Deng, Shenghua Gao, Tao Tan, Yanlin Geng.  
+**Hao Cheng**, Dongze Lian, Bowen Deng, Shenghua Gao, Tao Tan, Yanlin Geng.  
 [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Local_to_Global_Learning_Gradually_Adding_Classes_for_Training_Deep_CVPR_2019_paper.pdf) [code](https://github.com/piratehao/Local-to-Global-Learning-for-DNNs)
 
 
