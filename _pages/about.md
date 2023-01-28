@@ -14,7 +14,7 @@ Professor [Yang Liu](http://www.yliuu.com). I am currently interested in weakly 
 
 News
 ======
-Two arxiv papers are available: [RMNet](https://arxiv.org/abs/2111.00687) and [Identifiability of Noise Transition Matrix](https://arxiv.org/abs/2202.02016).  
+Two arxiv papers are available: [RMNet](https://arxiv.org/abs/2111.00687) and [Identifiability of Label Noise Transition Matrix](https://arxiv.org/abs/2202.02016).  
 
 ## Selected Publication (* denotes equal contribution)
 
@@ -23,7 +23,7 @@ Mitigating Memorization of Noisy Labels via Regularization between Representatio
 [paper](https://arxiv.org/pdf/2110.09022.pdf) [code](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
 
 Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations (**ICLR 2022**)  
-Jiaheng Wei, Zhaowei Zhu, **Hao Cheng**, Tongliang Liu, Gang Niu, Yang LiuXingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
+Jiaheng Wei, Zhaowei Zhu, **Hao Cheng**, Tongliang Liu, Gang Niu, Yang Liu, Xingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
 [paper](https://arxiv.org/pdf/2110.12088.pdf) [code](http://noisylabels.com)
 
 Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (**ICLR 2021**)  
