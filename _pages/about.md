@@ -16,6 +16,8 @@ News
 ======
 Two arxiv papers are available: [RMNet](https://arxiv.org/abs/2111.00687) and [Identifiability of Label Noise Transition Matrix](https://arxiv.org/abs/2202.02016).  
 
+Intern at DAMO Academy, Alibaba from 2022.07 (working with [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en) on Robust Time Series Forecasting)
+
 ## Selected Publication (* denotes equal contribution)
 
 Mitigating Memorization of Noisy Labels via Regularization between Representations (**ICLR 2023**)  
