@@ -63,15 +63,26 @@ Invited talk by [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAA
 Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with Noisy Labels and Collaborative Learning**.  
 [slides](https://share.weiyun.com/rgKWV4qb) 
 
-## Recent Awards
 
-Chancellor Fellowship　　　　　　　　UCSC　　　　　　　2021
+## Services
 
-Four-Star Distinguished Staff　　Youtu Lab, Tencent　　　　2020 
+Reviewer of NeurlPS 2021, NeurlPS 2022, ICLR 2022, ICLR 2023, ICML 2022, ICML 2023
 
-Technology Breakthrough Award　  Youtu Lab, Tencent　　　2020
 
-Top-1 Lecturer of the Year　　　　Youtu Lab, Tencent　　　2020
+## Personal Life/Hobbies
+
+I like to play billiards and basketball.
+
+My favorite mobile game is Identity V (第五人格). (Top layer with winning rate 97% for hunter spider).
+
+My idol is Michael Jackson since I was very young. I was also a leading dancer in college. 
+
+I love dogs, especially wolfhound and golden retriever. I hope every stray dog can be treated gently.
+
+
+
+
+
 
 
 
