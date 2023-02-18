@@ -73,7 +73,7 @@ Reviewer of NeurlPS 2021, NeurlPS 2022, ICLR 2022, ICLR 2023, ICML 2022, ICML 20
 
 I like to play billiards and basketball.
 
-My favorite mobile game is Identity V. (Top layer with winning rate 97% for hunter spider).
+My favorite mobile game is Identity V. (Top player with winning rate 97% for hunter spider).
 
 My idol is Michael Jackson since I was very young. I was also a leading dancer in college. 
 
