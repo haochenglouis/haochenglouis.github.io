@@ -70,15 +70,15 @@ Reviewer of NeurlPS 2021, NeurlPS 2022, ICLR 2022, ICLR 2023, ICML 2022, ICML 20
 Student Organizer of IJCAI workshop on [1st Learning and Mining with Noisy Labels Challenge](http://ucsc-real.soe.ucsc.edu:1995/Competition.html)
 
 
-## Personal Life/Hobbies
+## Personal Life / Hobbies
 
 I like to play billiards and basketball.
 
-My favorite mobile game is Identity V. (I am a top player of hunter "spider").
+My favorite mobile game is Identity V. I am a top player of hunter "spider".
 
 My idol is Michael Jackson since I was very young. I was also a leading dancer in college. 
 
-I love dogs, especially wolfhound and golden retriever. I hope every dog can be treated gently.
+I love dogs, especially wolfhound and golden retriever. Please be kind to every little dog.
 
 
 
