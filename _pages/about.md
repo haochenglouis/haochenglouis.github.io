@@ -68,12 +68,14 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 
 Reviewer of NeurlPS 2021, NeurlPS 2022, ICLR 2022, ICLR 2023, ICML 2022, ICML 2023
 
+Student Organizer of IJCAI workshop on [1st Learning and Mining with Noisy Labels Challenge](http://ucsc-real.soe.ucsc.edu:1995/Competition.html)
+
 
 ## Personal Life/Hobbies
 
 I like to play billiards and basketball.
 
-My favorite mobile game is Identity V. (Top player with winning rate 97% for hunter spider).
+My favorite mobile game is Identity V. (I am a top player of hunter "spider").
 
 My idol is Michael Jackson since I was very young. I was also a leading dancer in college. 
 
