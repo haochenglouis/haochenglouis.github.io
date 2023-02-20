@@ -67,7 +67,7 @@ Invited talk by [机器之心](https://www.jiqizhixin.com) on **Learning with No
 
 Reviewer of NeurlPS 2021, NeurlPS 2022, ICLR 2022, ICLR 2023, ICML 2022, ICML 2023
 
-Student Organizer of IJCAI workshop on [1st Learning and Mining with Noisy Labels Challenge](http://ucsc-real.soe.ucsc.edu:1995/Competition.html)
+Student organizer of IJCAI workshop on [1st Learning and Mining with Noisy Labels Challenge](http://ucsc-real.soe.ucsc.edu:1995/Competition.html)
 
 
 ## Personal Life / Hobbies
