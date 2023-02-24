@@ -78,7 +78,7 @@ My favorite mobile game is Identity V. I am a top player of hunter "spider".
 
 My idol is Michael Jackson since I was very young. I was also a leading dancer in college. 
 
-I love dogs, especially wolfhound and golden retriever. Please be kind to every little dog.
+I love dogs, especially wolfhound and golden retriever. Please be kind to them.
 
 
 
