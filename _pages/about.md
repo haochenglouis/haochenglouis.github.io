@@ -19,7 +19,7 @@ News
 
 ## Selected Publication (* denotes equal contribution)
 
-Learning with Mitigating memorization of noisy labels via regularization between representation (**ICLR 2023**)  
+Mitigating memorization of noisy labels via regularization between representation (**ICLR 2023**)  
 **Hao cheng\***, Zhaowei Zhu\*, Xing Sun, Yang Liu.  
 [paper](https://openreview.net/pdf?id=6qcYDVlVLnK) [code](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
 
