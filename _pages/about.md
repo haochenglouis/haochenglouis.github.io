@@ -26,7 +26,7 @@ News
 ## Selected Publication (* denotes equal contribution)
 
 Identifiability of Label Noise Transition Matrix (**ICML 2023**)  
-Yang Liu, **Hao Cheng**, Kun Zhang
+**Hao cheng\***, Zhaowei Zhu\*, Xing Sun, Yang Liu.  
 [paper](https://arxiv.org/abs/2202.02016) [code](https://github.com/UCSC-REAL/Identifiability)
 
 Mitigating Memorization of Noisy Labels via Regularization between Representations (**ICLR 2023**)  
