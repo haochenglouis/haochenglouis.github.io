@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student at University of California, Santa Cruz (UCSC), working with
-Professor [Yang Liu](http://www.yliuu.com). I am presently focused on enhancing the robustness of machine learning models, particularly by addressing challenges such as improving model resilience when trained on data with noisy labels. This data encompasses various formats including images, text, and time series data. Previously, I spent two years at YouTu Lab, Tencent, working with [Ke Li](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en) and [Xing Sun](https://www.sunxing.org).
+Professor [Yang Liu](http://www.yliuu.com). I am presently focused on enhancing the robustness of machine learning models, particularly by addressing challenges such as improving model resilience when trained on data with noisy labels. This encompasses a variety of data formats, including images, text, and time series data. Previously, I spent two years at YouTu Lab, Tencent, working with [Ke Li](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en) and [Xing Sun](https://www.sunxing.org).
 
 
 
