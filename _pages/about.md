@@ -38,7 +38,7 @@ Yang Liu, **Hao Cheng**, Kun Zhang.
 
 Mitigating Memorization of Noisy Labels via Regularization between Representations (**ICLR 2023**)  
 **Hao cheng\***, Zhaowei Zhu\*, Xing Sun, Yang Liu.  
-[paper](https://arxiv.org/pdf/2010.02347.pdf) [code](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
+[paper](https://openreview.net/pdf?id=6qcYDVlVLnK) [code](https://github.com/UCSC-REAL/SelfSup_NoisyLabel)
 
 Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations (**ICLR 2022**)  
 Jiaheng Wei, Zhaowei Zhu, **Hao Cheng**, Tongliang Liu, Gang Niu, Yang Liu.  
