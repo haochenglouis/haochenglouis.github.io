@@ -19,7 +19,7 @@ News
   
 - Research Intern at ByteDance AI Lab from 2023.03 to 2023.07 (working with [Xiaoying Zhang](https://scholar.google.com/citations?user=lwKg4C4AAAAJ&hl=en), [Yang Liu](http://www.yliuu.com) on Trustworthy Language Model)
   
-- Research Intern at DAMO Academy, Alibaba from 2022.07 to 2023.03 (working with [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en) on Robust Time Series Forecasting)
+- Research Intern at DAMO Academy, Alibaba from 2022.07 to 2023.02 (working with [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en) on Robust Time Series Forecasting)
 
 ## Selected Publication (* denotes equal contribution)
 
