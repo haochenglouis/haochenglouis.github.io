@@ -27,6 +27,10 @@ RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anom
 **Hao Cheng**, Qingsong Wen, Yang Liu, Xing Sun.  
 [paper](https://arxiv.org/abs/2402.02032) [code](https://github.com/haochenglouis/RobustTSF) 
 
+Unmasking and Improving Data Credibility: A Study with Datasets for Training Harmless Language Models (**ICLR 2024**)  
+Zhaowei Zhu, Jialu Wang, **Hao Cheng**, Yang Liu.  
+[paper](https://arxiv.org/pdf/2311.11202.pdf) [code](https://github.com/Docta-ai/docta) 
+
 Identifiability of Label Noise Transition Matrix (**ICML 2023**)  
 Yang Liu, **Hao Cheng**, Kun Zhang.  
 [paper](https://arxiv.org/abs/2202.02016) [code](https://github.com/UCSC-REAL/Identifiability) 
