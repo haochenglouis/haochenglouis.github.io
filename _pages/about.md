@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 I am a Ph.D. student at University of California, Santa Cruz (UCSC), working with
-Professor [Yang Liu](http://www.yliuu.com). I am presently focused on enhancing the robustness of machine learning models, particularly by addressing challenges such as improving model resilience when trained on data with noisy labels. This encompasses a variety of data formats, including images, text, and time series data. Previously, I spent two years at YouTu Lab, Tencent, working with [Ke Li](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en) and [Xing Sun](https://www.sunxing.org).
+Professor [Yang Liu](http://www.yliuu.com). I am presently focused on enhancing the robustness of machine learning models, particularly by addressing challenges such as improving model resilience when trained on data with noisy labels. This encompasses a variety of data formats, including images, text, and time series data. 
+
+Previously, I spent two years at YouTu Lab, Tencent, working with [Ke Li](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en) and [Xing Sun](https://www.sunxing.org).
 
 
 
 News
 ======
-- [Trustworthy LLM](https://arxiv.org/abs/2308.05374) is released. We identify the major dimensions of consideration for building a trustworthy LLM.
-  
+
 - Research Intern at ByteDance AI Lab from 2023.03 to 2023.07 (working with [Xiaoying Zhang](https://scholar.google.com/citations?user=lwKg4C4AAAAJ&hl=en), [Yang Liu](http://www.yliuu.com) on Trustworthy Language Model)
   
 - Research Intern at DAMO Academy, Alibaba from 2022.07 to 2023.02 (working with [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en) on Robust Time Series Forecasting)
