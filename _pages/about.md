@@ -46,7 +46,7 @@ Jiaheng Wei, Zhaowei Zhu, **Hao Cheng**, Tongliang Liu, Gang Niu, Yang Liu.
 
 Learning with Instance-Dependent Label Noise: A Sample Sieve Approach (**ICLR 2021**)  
 **Hao cheng\***, Zhaowei Zhu\*, Xingyu Li, Yifei Gong, Xing Sun, Yang Liu.  
-[paper](https://arxiv.org/abs/2110.09022) [code](https://github.com/haochenglouis/cores)
+[paper](https://arxiv.org/pdf/2010.02347) [code](https://github.com/haochenglouis/cores)
 
 Pruning Filter in Filter (**NeurlPS 2020**)  
 Fanxu Meng\*, **Hao Cheng\***, Ke Li, Huixiang Luo, Xiaowei Guo, Guangming Lu, Xing Sun.  
@@ -67,7 +67,7 @@ Evaluating Capability of Deep Neural Networks for Image Classification via Infor
 
 ## Services
 
-Reviewer of NeurlPS 2021/2022/2023, ICLR 2022/2023/2024, ICML 2022/2023/2024
+Reviewer of NeurlPS 2021/2022/2023/2024, ICLR 2022/2023/2024/2025, ICML 2022/2023/2024
 
 Student organizer of IJCAI 2022 workshop on [1st Learning and Mining with Noisy Labels Challenge](http://ucsc-real.soe.ucsc.edu:1995/Competition.html)
 
