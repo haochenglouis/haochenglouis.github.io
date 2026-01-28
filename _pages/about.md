@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student at HKBU, advised by Professor [Bo Han](https://bhanml.github.io) and 
 Professor [Yang Liu](http://www.yliuu.com). Previously, I worked or interned at Tencent YouTu Lab, collaborating with [Fanxu Meng](https://fxmeng.github.io), [Ke Li](https://keli.info), [Xing Sun](https://www.sunxing.org); ByteDance AI Lab, collaborating with [Xiaoying Zhang](https://scholar.google.com/citations?user=lwKg4C4AAAAJ&hl=en), [Yang Liu](http://www.yliuu.com); Alibaba DAMO Academy, collaborating with [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), [Liang Sun](https://scholar.google.com/citations?user=8JbrsgUAAAAJ&hl=en).
 
-I focuse on Data-Centric AI, with the goal of developing **robust** and **reliable** data engines that drive AI systems. My work has been published in top-tier AI and CV venues, including ICLR, NeurIPS, ICML, and CVPR, with 10+ first author or co-first author papers and over 2300 citations.
+I focus on Data-Centric AI, with the goal of developing **robust** and **reliable** data engines that drive AI systems. My work has been published in top-tier AI and CV venues, including ICLR, NeurIPS, ICML, and CVPR, with 10+ first author or co-first author papers and over 2300 citations.
 
 ## Selected Publications 
 
